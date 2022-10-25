@@ -189,3 +189,4 @@ and let's add one line to our .prettierrc file
 
 you may have to reload after this so vscode knows whats up
 
+Let's go ahead and stop here and commit and make sure everthing as far as our setup is looking good
