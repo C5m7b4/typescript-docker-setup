@@ -1,0 +1,4 @@
+https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
+
+https://khalilstemmler.com/blogs/tooling/prettier/
+
